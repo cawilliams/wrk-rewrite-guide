@@ -1,5 +1,7 @@
 # Гайд по рерайтингу/копирайтингу для 2ch/wrk/
 
+*Шапку для треда можно взять [здесь](template.txt)*
+
 [FAQ с обзором популярных бирж](http://pastebin.com/DWEBf17a) - годовой давности, но всё ещё актуальное
 
 [Руководство для начинающего копирайтера](http://molyanov.ru/kak-stat-xoroshim-kopirajterom-samoe-podrobnoe-rukovodstvo-dlya-nachinayushhix/) - к прочтению обязательно, все вопросы по оплате здесь!
