@@ -14,9 +14,15 @@
 - http://etxt.ru 
 - http://www.turbotext.ru/
 
+**Полезные инструменты:**
+
+[Главред](https://glvrd.ru/) - великолепный инструмент для уменьшения заспамленности статей. Проверяет текст согласно критериям инфостиля по семантике и синтаксису. Отмечает разный словесный мусор, стоп-слова, речевые штампы. Неидеален, конечно, но вещь годная. Стремиться есть смысл к оценке ~7-8, это хороший уровень. 
+
+[Seo-анализ Miratext](https://miratext.ru/seo_analiz_text/) - семантический анализатор, сразу высвечивает, что надо удалить, чтобы снизить тошноту и водность, умеет вычислять "читабельность" текста по закону Ципфа,  Непонятно, насколько это имеет смысл и действительно ли это влияет на читабельность. Насчет Ципфа, лайфхак: просто повысь частоту употребления первого слова в списке.
+
 Настройки антиплагиата etxt в соответствии с серверной версией http://arhivach.org/thread/267804/#1050884
 
-Стоит поискать постоянных заказчиков [здесь](https://www.etxt.biz/advers/all/?text=&filter=1&id_category=-1) или [здесь](https://hh.ru/search/vacancy?no_magic=true&schedule=remote&items_on_page=100&specialization=3.119&order_by=relevance&search_period=&text=&salary=&experience=doesNotMatter&currency_code=RUR)
+Поискать постоянных заказчиков стоит [здесь](https://www.etxt.biz/advers/all/?text=&filter=1&id_category=-1) или [здесь](https://hh.ru/search/vacancy?no_magic=true&schedule=remote&items_on_page=100&specialization=3.119&order_by=relevance&search_period=&text=&salary=&experience=doesNotMatter&currency_code=RUR)
 
 Также в актуальном треде на [/wrk/](https://2ch.hk/wrk/) периодически пробегают заказчики, предлагающие работу. Можешь предложить свои условия и спросить у анонов совета.
 Если ищите исполнителя среди анонов, сразу указывайте тему, ценник за 1000 знаков и объёмы работы!
