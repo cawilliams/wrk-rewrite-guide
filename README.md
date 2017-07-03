@@ -20,6 +20,8 @@
 
 [Seo-анализ Miratext](https://miratext.ru/seo_analiz_text/) - семантический анализатор, сразу высвечивает, что надо удалить, чтобы снизить тошноту и водность, умеет вычислять "читабельность" текста по закону Ципфа,  Непонятно, насколько это имеет смысл и действительно ли это влияет на читабельность. Насчет Ципфа, лайфхак: просто повысь частоту употребления первого слова в списке.
 
+[CONTENT WATCH](https://content-watch.ru/text/) - неплохой антиплагиат, выдаёт уникальность, показывает совпадения с текстами по конкретным URL. Используется на Миратексте. 
+
 Настройки антиплагиата etxt в соответствии с серверной версией http://arhivach.org/thread/267804/#1050884
 
 Поискать постоянных заказчиков стоит [здесь](https://www.etxt.biz/advers/all/?text=&filter=1&id_category=-1) или [здесь](https://hh.ru/search/vacancy?no_magic=true&schedule=remote&items_on_page=100&specialization=3.119&order_by=relevance&search_period=&text=&salary=&experience=doesNotMatter&currency_code=RUR)
